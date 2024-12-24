@@ -1,0 +1,51 @@
+Split,NER Tag,Entity,Count
+train,ADR,pain,164
+train,ADR,muscle pain,76
+train,ADR,fatigue,65
+train,ADR,Lipitor,59
+train,ADR,depression,59
+train,ADR,joint pain,42
+train,ADR,memory loss,37
+train,ADR,weakness,34
+train,ADR,nausea,29
+train,ADR,gas,29
+train,Drug,Lipitor,551
+train,Drug,lipitor,154
+train,Drug,Zocor,32
+train,Drug,LIPITOR,26
+train,Drug,Arthrotec,18
+train,Drug,pain,17
+train,Drug,Crestor,16
+train,Drug,Pravachol,13
+train,Drug,Liptor,9
+train,Drug,Voltaren,9
+train,Finding,heart attack,13
+train,Finding,arthritis,11
+train,Finding,high cholesterol,8
+train,Finding,pain,6
+train,Finding,muscle pain,6
+train,Finding,gout,6
+train,Finding,stress,5
+train,Finding,Lipitor,5
+train,Finding,menopause,4
+train,Finding,fibromyalgia,4
+train,Disease,arthritis,14
+train,Disease,Lipitor,10
+train,Disease,heart attack,7
+train,Disease,MS,5
+train,Disease,pain,5
+train,Disease,Lupus,4
+train,Disease,coronary disease,3
+train,Disease,fibromyalgia,3
+train,Disease,stroke,3
+train,Disease,flu,3
+train,Symptom,pain,51
+train,Symptom,knee pain,5
+train,Symptom,menopause,3
+train,Symptom,extreme pain,2
+train,Symptom,Advil,2
+train,Symptom,aches,2
+train,Symptom,chronic pain,2
+train,Symptom,arthrotec,2
+train,Symptom,sick,2
+train,Symptom,back pain,2

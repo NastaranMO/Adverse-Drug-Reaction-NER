@@ -1,0 +1,51 @@
+Split,NER Tag,Entity,Count
+test,ADR,muscle pain,12
+test,ADR,pain,12
+test,ADR,joint pain,7
+test,ADR,diarrhea,6
+test,ADR,weakness,6
+test,ADR,fatigue,5
+test,ADR,tired,5
+test,ADR,memory loss,5
+test,ADR,depression,5
+test,ADR,headaches,5
+test,Symptom,pain,9
+test,Symptom,knee pain,2
+test,Symptom,menopause,1
+test,Symptom,Aleve,1
+test,Symptom,inflamation,1
+test,Symptom,arthritic pain,1
+test,Symptom,ibu,1
+test,Symptom,OA,1
+test,Symptom,limp,1
+test,Symptom,Lower Back Pain,1
+test,Disease,arthritis,3
+test,Disease,Parkinson's,2
+test,Disease,Meloxicam,1
+test,Disease,abdominal pressure,1
+test,Disease,pain,1
+test,Disease,HEART ATTACH,1
+test,Disease,Heart attack,1
+test,Disease,fibromyalgia,1
+test,Disease,high cholesterol,1
+test,Disease,bad gas,1
+test,Drug,Lipitor,63
+test,Drug,lipitor,31
+test,Drug,Arthrotec,5
+test,Drug,pain,3
+test,Drug,Crestor,3
+test,Drug,Aleve,2
+test,Drug,LIPEX,2
+test,Drug,CoQ10,2
+test,Drug,CO-Q10,2
+test,Drug,Pravachol,2
+test,Finding,rhabdomyolysis,3
+test,Finding,dark urine,2
+test,Finding,vomiting,2
+test,Finding,nausea,2
+test,Finding,fatigue,2
+test,Finding,neurodegenerative diseases,2
+test,Finding,bursitis in the hips,1
+test,Finding,allergies,1
+test,Finding,arthritis,1
+test,Finding,neuroma,1

@@ -1,0 +1,51 @@
+Split,NER Tag,Entity,Count
+validation,ADR,fatigue,13
+validation,ADR,pain,10
+validation,ADR,joint pain,8
+validation,ADR,headaches,7
+validation,ADR,gas,7
+validation,ADR,memory loss,7
+validation,ADR,Lipitor,6
+validation,ADR,muscle pain,5
+validation,ADR,back pain,5
+validation,ADR,nausea,5
+validation,Drug,Lipitor,77
+validation,Drug,lipitor,22
+validation,Drug,Tricor,5
+validation,Drug,simvostatin,2
+validation,Drug,potassium,2
+validation,Drug,Zocor,2
+validation,Drug,Zestril,2
+validation,Drug,Lopressor,2
+validation,Drug,Cataflam,1
+validation,Drug,aches and pains,1
+validation,Symptom,pain,4
+validation,Symptom,arthrotec,2
+validation,Symptom,swelling,2
+validation,Symptom,bruising,1
+validation,Symptom,inflammation,1
+validation,Symptom,arthrotec 75,1
+validation,Symptom,walking up the stairs was intolerable,1
+validation,Symptom,chronic knee pain,1
+validation,Symptom,pain and stiffness,1
+validation,Symptom,gas,1
+validation,Disease,Lipitor,3
+validation,Disease,diabetes,2
+validation,Disease,heart attack,2
+validation,Disease,GERD,1
+validation,Disease,Spasms,1
+validation,Disease,eczema,1
+validation,Disease,heart disease,1
+validation,Disease,coronary problems,1
+validation,Disease,ALS,1
+validation,Disease,flu,1
+validation,Finding,arthritis,4
+validation,Finding,muscle problems,2
+validation,Finding,Lipitor,2
+validation,Finding,miscarriage,1
+validation,Finding,muscle pain,1
+validation,Finding,heart attack,1
+validation,Finding,stress,1
+validation,Finding,aortic aneurysem,1
+validation,Finding,poor circulation,1
+validation,Finding,fibromyalgia,1
