@@ -16,7 +16,7 @@ This project is designed to train and evaluate a named entity recognition (NER) 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:NastaranMO/TM-A3.git
    ```
 
 2. Navigate to the project directory:
