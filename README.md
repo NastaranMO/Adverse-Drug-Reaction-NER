@@ -70,7 +70,7 @@ python main.py --analysis
 - `top_entities_by_category_val`: CSV file containing top entities by category for validation set.
 
 
-## Word CLoud Result
+## Word Cloud Result
 ![Alt text](wordcloud.png)
 
 ## Acknowledgments
