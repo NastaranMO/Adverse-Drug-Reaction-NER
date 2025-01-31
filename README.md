@@ -1,6 +1,6 @@
 # Project Title
 
-This project is designed to train and evaluate a named entity recognition (NER) model using the Hugging Face Transformers library and PyTorch as well as In-context learning with GPT model. It includes functionalities for data preprocessing, model training, evaluation, and analysis.
+This project is designed to train and evaluate a named entity recognition (NER) model using the Hugging Face Transformers library and PyTorch as well as In-context learning with GPT model. CADEC dataset is used as our starting point to analyse the effectivess of different BERT models considering different evaluation metrics. It includes functionalities for data preprocessing, model training, evaluation, and analysis.
 
 ## Getting Started
 
@@ -16,12 +16,12 @@ This project is designed to train and evaluate a named entity recognition (NER) 
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:NastaranMO/TM-A3.git
+   git clone git@github.com:NastaranMO/Adverse-Drug-Reaction-NER.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd TM-A3
+   cd Adverse-Drug-Reaction-NER
    ```
 
 3. Install the required packages:
@@ -70,7 +70,10 @@ python main.py --analysis
 - `top_entities_by_category_val`: CSV file containing top entities by category for validation set.
 
 
-## Word Cloud Result
+## Results
+### Distributions of Tags
+![Alt text](ner_distribution.png)
+### Word Cloud 
 ![Alt text](wordcloud.png)
 
 ## Acknowledgments
